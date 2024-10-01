@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓 I'm a Computer Engineering Student<br>🔭 I’m currently working <br>💬 Ask me about anything, I am happy to hel<br>🌱 I'm currently learning<br>📬 How to reach me: marathedeep09@gmail.com<br>📝 Resume:
+👨‍🎓 I'm a Computer Engineering Student<br>🔭 I’m currently working <br>💬 Ask me about anything, I am happy to help<br>🌱 I'm currently learning<br>📬 How to reach me: marathedeep09@gmail.com<br>📝 Resume:
 
 
 # 💻 Tech Stack:
